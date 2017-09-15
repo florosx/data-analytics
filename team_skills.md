@@ -8,8 +8,12 @@
 - knows how to communicate and work with specialists from other fields, e.g. doctors and biologists.
 
 # Andreas:
-
-
+- domain knowledge in economics and history.
+- knowledge of traditional statistical analysis applied in economics - regression, etc.
+- practical experience with business practices.
+- intermediate skills in Python
+- broad overview of Data Science and related ability to communicate it with social scientists.
+- "can do" attitude
 
 
 
