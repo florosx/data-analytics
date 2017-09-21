@@ -1,0 +1,65 @@
+﻿Customers
+Companies  that hold data and want to make use of them
+Academics
+Companies that want to include data analysis in their services
+
+Examples of customer needs and our role.
+A company that offers IT infrastructure, such as EDI, holds a lot of data. Mining them might provide valuable insights and new products-services for them to offer. We can build a prototype for them
+A company that has already found the use for their available data is looking for a person to join their team. They are looking for a long time and haven’t found the right person. We step in for a limited amount of time and start working until they have found the what they are looking for.
+A company knows that they will need someone for a certain period of time but they are not sure if they want to use overtime, or hire someone. We offer them a middle solution via a fixed time contract.
+A professor in the life or social sciences is thinking about a cool project he is not sure whether it will work out but he also can’t wait for too long until the idea is obsolete. We step in and do an initial “feasibility analysis”.
+That said professor moves on with the project and everything goes fine until one of his grad students drops out. We step in and bring the project to the finish line.
+An engineering company would like to add more functionality to their products – e.g. self diagnostics for mechanical constructions. We combine our expertise with theirs. 
+A data science company has a customer in Greece-Cyprus and need support. We are data scientists we speak the language and we have experience of the Greek market. What else could they ask for?
+
+Places and ways we can find our prospective customers
+Networking with friends and colleagues
+Freelancing internet sites of high quality such as TopTal
+Direct contact with companies that look for personnel.
+
+
+On competition
+Given the products that we wish to sell, one can infer who the competitors are.
+IT consultancy firms: They are the more traditional players in the market. At the same time, most probably, we do not directly compete with them. They offer more traditional IT consultancy services and they address their products to bigger firms than the ones we are interested. For examples see Ernst and Young, ICAP.
+Smaller more recent firms that focus on Data Science: they are newer in the market and usually are smaller, led by younger people. They are closer to the start-up mentality with respect processes, hierarchies, etc. It seems that are structured around the concept of ‘Data Product’. They have built something that they then sell as a service.
+Freelancers: here things are more diverse. In different sites there are people from various countries, with different education levels, etc.
+Individuals: I have included them because in certain cases a firm or a professor has to choose between contracting us and hiring an employee – researcher.
+What I would like to point out is that our main goal with respect competition is to ‘move around’ it. We cannot compete with EY but we can provide a more specific service. We don’t offer a specific ‘data product’ that we try to sell to everyone, but we try to offer custom solutions to their problems. There will always be people with better CV’s than ours, but a team almost always beats any individual.
+
+
+Assessing our Strengths and Weaknesses
+In order to assess  them we use the notion of capabilities – the axis along which a business can be analysed. We ask weather a certain capability is important for our industry, and how do we do with it.
+Research and Development: Data Science is one of the hot areas where computer science and mathematics are being applied to various fields. Being constantly updated is pretty important. For the time being it seems that we have the necessary skills to be able to carry through with a data science project.
+Operations: Let us say this is the actual ability to build such a project. It is the core of our business. At the moment we haven’t yet done any, so we definitely need to do that.
+Marketing: It is as important as it is for any business. This plan will sort out some things about our marketing strategy, which for sure will be about our site and social media.
+Distribution and Delivery: Not really relevant to us
+Customer Service: Along with operations it forms the core of our business. In a sense it starts right from the beginning with the first contact with a client – the requirements phase. In most cases, even after the end of our work, there should be some kind of support – a bug that popped out, some clarifications, etc.
+Management and Organisation:  It is as important as it is for any business. This very plan is part of the management process and setting up of the organisational needs.. As we move ahead more things will be clear about what we need.
+Financial Condition: There will be a more detailed analysis later on. For the time being what can be said is that we try to create a structure with minimum fixed costs and our labour as the main input. In such a setting the main cost is the opportunity cost of our labour – the time we put into it. For me that I am unemployed, this is zero :)
+
+Assessing Opportunities and Threats
+Opportunities:
+A growing demand, worldwide, for Data Science
+A relative shortage of the relevant skills in Greece
+A move towards outsourcing solutions
+Threats:
+At least with respect to Greece, there is a still political and economic uncertainty.
+Bigger and stronger companies adapt to the demand while a lot of new ones are being formed
+
+SWOT – combine the above
+
+Our Business Model – or “how do you make your money?”
+Sources of revenue: The services we offer, as described above. We try to offer a custom made service for each customer.
+Fixed costs: 1)All the duties, levies and taxes to be paid in order to be in the market 2)The minimum infrastructure necessary – data analysis server, internet site, etc
+Variable costs: This is mostly our labour. There might be one-off costs, such as a training course on a certain technology.
+Payment schedules: In line with the custom made service, we should try to implement a “payment upon phase completion” scheme – if its not a fixed term contract where payments should come in monthly. Any project, either a waterfall one or an iterative one, has certain phases. We should deliver and get paid upon completion of its phase.
+
+The big picture in marketing
+Customer, product, and competitive research: We have covered these aspects in previous parts. In two words this is knowing your customer needs, your product, and what you fight against.
+Our marketing strategy: This is mostly about what the product is and its pricing. Our main focus is to provide custom made services of high quality. This is how we market ourselves. We are highly specialised and we can build just what you need. As we are in the beginning, we cannot charge premium prices. Yet, we have the flexibility to sell to different markets and different countries, and use to our advantage the nature of outsourcing. For example, when a company in Greece gives a salary of 1000 euro, it has to pay double the amount to cover taxes and contributions. Our prices should be more than the salary and less than the total cost for the company.
+Promotion: This is the major component of marketing. In our case, as a first means we should have our internet site. Usually, the portfolio of projects along with the CV’s are the main elements. Our effort to use our networks of contacts, in the end leads to the internet site. For Greece, participation in meet-ups, associations of data scientists, etc, could be part of the marketing mix. On an international level, contributing to projects is a pretty good way to achieve visibility. For example the “programming historian” platform is open to contributions. The main thing is to make ourselves visible.
+Customer Service: Although it seems it doesn’t relate to marketing, customer service builds satisfaction, prompts repeat purchases and positive word of mouth, and inspires customer loyalty to your company.
+
+
+
+ 
